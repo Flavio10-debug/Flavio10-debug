@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+          
+
 
 <img align="right" width="400" height="400" src="https://user-images.githubusercontent.com/57039079/68556083-b2038700-0428-11ea-8add-e9abd09f6b23.gif">
 
@@ -26,10 +28,21 @@ Software developer, it is with great satisfaction to have you on my GitHub page,
 
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/Flavio10-debug)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)]https://www.linkedin.com/in/flavio-soares-da-silva10/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flavio-soares-da-silva10/)](https://www.linkedin.com/in/flavio-soares-da-silva10/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+11+986726999_de_telefone&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+11+986726999_de_telefone&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soares.flavio10@gmail.com)](mailto:soares.flavio10@gmail.com)
 
 - Thanks for visiting. 
 
 - Enjoy it!! o/
+
+
+
+
+
+
+#  Flavio Soares da Silva - 💻
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-squerelogo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flavio-soares-da-silva10/)](https://www.linkedin.com/in/flavio-soares-da-silva10/)
+
+[![Gmail.Bage](https://imag.shields.io.badge/-Gmail
