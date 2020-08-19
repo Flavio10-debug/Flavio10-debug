@@ -37,12 +37,3 @@ Software developer, it is with great satisfaction to have you on my GitHub page,
 - Enjoy it!! o/
 
 
-
-
-
-
-#  Flavio Soares da Silva - 💻
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-squerelogo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flavio-soares-da-silva10/)](https://www.linkedin.com/in/flavio-soares-da-silva10/)
-
-[![Gmail.Bage](https://imag.shields.io.badge/-Gmail
